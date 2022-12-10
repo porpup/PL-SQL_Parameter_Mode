@@ -104,7 +104,7 @@ exec L4Q2(2,2)
 exec L4Q2(2,3)
 
 
-/* Question 3:
+/* Question 3: (use schemas des02, and script 7clearwater)
     Create a pseudo function that accepts 2 parameters represented the 
 inv_id, and the percentage increase in price. The pseudo function 
 should first update the database with the new price then return 
