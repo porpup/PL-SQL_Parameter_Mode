@@ -23,7 +23,7 @@ The procedure will use the pseudo function to display the shape, the area and th
 <br>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL > exec L4Q2(2,3)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The area of a rectangle size 2 by 3 is 6. It's perimeter is 10.
-#### Question 3:
+#### Question 3: (use schemas des02, and script 7clearwater)
 &nbsp;Create a pseudo function that accepts 2 parameters represented the inv_id, and the percentage 
 increase in price. The pseudo function should first update the database with the new
 price then return the new price and the quantity on hand.
